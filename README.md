@@ -1,2 +1,2 @@
-# Alura_Python: Parte 01 - Manipulação de Strings
-A primeira parte dessa sequência de aulas foca na manipulação básica de Strings, utilizando os métodos de 'print()' e o método 'input' para armazenar e exibir valores no console.
+# Alura_Python: Parte 02 - Módulos e Funções
+A segunda parte dessa sequência de aulas foca em de módulos e funções, utilizando o método de 'def' e os métodos 'if/elif/else' para criar funções e manipular condições de variáveis, respectivamente.
