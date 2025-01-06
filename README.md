@@ -1,2 +1,2 @@
-# Alura_Python: Parte 01 - Manipulação de Strings
-A primeira parte dessa sequência de aulas foca na manipulação básica de Strings, utilizando os métodos de 'print()' e o método 'input' para armazenar e exibir valores no console.
+# Alura_Python: Parte 03 - Lista, Laços e Exceções
+A terceira parte dessa sequência de aulas foca na utilização de Listas e de Laços de Repetição, para armazenar e manipular dados presentes no programa, bem como a utilização do método try/except para tratamento de dados.
